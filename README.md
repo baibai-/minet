@@ -1,4 +1,5 @@
 minet
 =====
 
-my network project.
+our first program
+-----------------
